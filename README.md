@@ -4,3 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 - [osTicket: Prerequisites and Installation]
+
+    <li>osTicket (Help Desk Ticketing System)</li>
+    <li>osTicket: Prerequisite and Installation</li>
+    <li>osTicket: Post-Installation Configuration</li>
