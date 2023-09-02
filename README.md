@@ -1,5 +1,4 @@
-<h1>Hi, I'm Maleke, an <a href=https://www.linkedin.com/in/maleke-wright-423b2b28a"›IT Professional</a></h1>
-
+<h1>Hi, I'm Maleke, an <a href=https://www.linkedin.com/in/maleke-wright-423b2b28a"›IT Professional</a>
 <h2> Information Technology Projects:</h2>
 <b>osTicket (Help Desk Ticketing System</b>
 
