@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/techwiz77777/ticket-lifecycle)
  
  - <b> Linux (Linux CLI Streaming)</b>
-- [Linux CLI] [https://github.com/techwiz77777/osticket-prereqs](https://github.com/mwtechwiz/Fusus-Core-Simulation)
+- [Linux CLI](https://github.com/mwtechwiz/Fusus-Core-Simulation)
 
   
 - <b>Microsoft Azure</b>
