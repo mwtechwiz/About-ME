@@ -7,8 +7,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/techwiz77777/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/techwiz77777/ticket-lifecycle)
  
- - <b> Linux (Linux CLI Streaming)</b>
-  -[FususCORE Live Streaming](https://github.com/mwtechwiz/Fusus-Core-Simulation)
+ - <b>Linux (Linux CLI Streaming)</b>
+  - [FususCORE Live Streaming](https://github.com/mwtechwiz/Fusus-Core-Simulation)
 
   
 - <b>Microsoft Azure</b>
